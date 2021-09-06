@@ -1,0 +1,4 @@
+Ana;20
+Pedro;32
+Fernando;50
+Fabian;48

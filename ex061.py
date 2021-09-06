@@ -1,0 +1,9 @@
+tm = int(input('Informe o primeiro termo: '))
+rz = int(input('Informe a razão: '))
+ct = 1
+while ct <= 10:
+    print(tm,end='')
+    if ct != 10:
+        print('-',end='')
+    tm+=rz
+    ct+=1
